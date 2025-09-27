@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_PawnSekiro.uasset"
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_PawnSekiro.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Blueprints/BPI_Whip.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_GrapplePoint.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_Whip.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_Dummy.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Blueprints/BP_Dummy.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Sekiro.umap"
 			]
 		}
 	]
