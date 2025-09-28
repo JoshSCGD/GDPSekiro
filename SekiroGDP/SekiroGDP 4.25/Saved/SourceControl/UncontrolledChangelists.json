@@ -9,9 +9,14 @@
 				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Blueprints/BPI_Whip.uasset",
 				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_GrapplePoint.uasset",
 				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_Whip.uasset",
-				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_Dummy.uasset",
 				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Blueprints/BP_Dummy.uasset",
-				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Sekiro.umap"
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Sekiro.umap",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Animations/Curve_RopePositionGround_Float.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Animations/Curve_RopeLengthAir_Float.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Animations/Curve_RopePositionAir_Float.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Blueprints/WBP_GUI.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Animations/CR_Sekiro.uasset",
+				"C:/Users/Josh/Desktop/Repos/GDPSekiro/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Core/BP_Dummy.uasset"
 			]
 		}
 	]
